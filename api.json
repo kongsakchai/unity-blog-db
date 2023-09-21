@@ -1,0 +1,17 @@
+[
+  {
+    "id": "unity-engine-install",
+    "title": "การติดตั้ง Unity Engine",
+    "details": "สอนการติดตั้งโปรแกรม Unity Engine และ VS Code",
+    "url_img": "https://www.protocol.com/media-library/unity-logo.jpg?id=30046849",
+    "videos": [],
+    "download": [
+      { "name": "Unity Hub", "url": "https://unity.com/download" },
+      { "name": "Visual Code", "url": "https://code.visualstudio.com" },
+      {
+        "name": ".Net SDK",
+        "url": "https://dotnet.microsoft.com/en-us/download/visual-studio-sdks"
+      }
+    ]
+  }
+]
